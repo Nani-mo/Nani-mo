@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Nani-mo
-- Servus
+- @Nani-mo
+- moin 💀
 
 <!---
 Nani-mo/Nani-mo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
